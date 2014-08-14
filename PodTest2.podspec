@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version      = "0.0.1"
   s.summary      = "PodTest2 Test"
   s.description  = <<-DESC
-  					abc
+  					abcfgeifdjifjigheijifi
                    DESC
   s.homepage     = "https://github.com/liuduo1988/PodTest2"
   s.license      = "MIT"
